@@ -1,0 +1,4 @@
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.tex linguist-language=TeX
+*.sty linguist-language=TeX
